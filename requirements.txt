@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+pymupdf
+python-dotenv
+faiss-cpu
+sentence-transformers
+Pillow
+pandas
+openpyxl
+requests
+beautifulsoup4
+lxml
