@@ -1,6 +1,6 @@
 # CogniQuery Pro: A Multi-Modal RAG Engine
 
-**Live Demo:** [Link to your deployed Streamlit App will go here after deployment]
+**Live Demo:** [https://enterprise-document.streamlit.app/](https://enterprise-document.streamlit.app/)
 
 CogniQuery Pro is a sophisticated Question-Answering system built to understand and converse with complex, multi-format data sources. It leverages a multi-modal Retrieval-Augmented Generation (RAG) architecture to analyze and extract insights from both text and visual elements within PDFs, spreadsheets, emails, and live websites.
 
